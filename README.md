@@ -1,7 +1,7 @@
 # maven
 HunetMC Maven public repository
 
-## Use this repository
+## How to use this repository in your project
 Add below to your `pom.xml`.
 ```
 <repository>
